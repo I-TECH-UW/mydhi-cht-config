@@ -20,7 +20,7 @@
     "eslint-plugin-json": "^1.3.2",
     "cht-conf": "^3.7.0",
     "medic-conf-test-harness": "^0.1.19",
-    "mocha": "^5.1.1"
+    "mocha": "^10.1.0"
   },
   "dependencies": {}
 }
